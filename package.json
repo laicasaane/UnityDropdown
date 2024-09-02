@@ -1,11 +1,11 @@
 {
-  "name": "com.solidalloy.unity-dropdown",
-  "version": "1.2.2",
-  "displayName": "Unity Dropdown",
+  "name": "com.solidalloy.unity-dropdown.forked",
+  "version": "1.2.4",
+  "displayName": "Unity Dropdown - Forked",
   "description": "A better dropdown window for Unity Editor",
   "dependencies": {
     "com.solidalloy.util": "1.40.0",
-    "org.nuget.system.memory": "4.5.4"
+    "org.nuget.system.memory": "4.5.5"
   },
   "keywords": [
     "dropdown",
